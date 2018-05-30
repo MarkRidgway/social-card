@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 
-import SocialCard from './components/social-card';
+import SocialCard from './components/social-card/';
 
 import tesla from './assets/images/tesla.jpg';
 import cat from './assets/images/cat.jpg';

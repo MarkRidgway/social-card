@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Header, Name, Avatar, Bio, Title } from '../styles/social-card';
+import { Card, Header, Name, Avatar, Bio, Title } from './styled';
 
 const SocialCard = (props) => {
   return(
